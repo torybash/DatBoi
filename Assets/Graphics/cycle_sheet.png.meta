@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 0d1b90bef670f1e4cba949739d6fd830
+timeCreated: 1475780203
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SeatBack
+    21300002: SeatFront
+    21300004: Wheel
+    21300006: DatBody
+    21300008: FrontLegUpper
+    21300010: FrontLegLower
+    21300012: BackLegUpper
+    21300014: BackLegLower
+    21300016: Pedal
+    21300018: PedalArm
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeatBack
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 361
+        width: 5
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SeatFront
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 354
+        width: 50
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5127555, y: 0.04696508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wheel
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 347
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DatBody
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 182
+        width: 204
+        height: 156
+      alignment: 9
+      pivot: {x: 0.3561896, y: 0.02576251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrontLegUpper
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 220
+        width: 49
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6041254, y: 0.90064925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FrontLegLower
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 162
+        width: 57
+        height: 163
+      alignment: 9
+      pivot: {x: 0.74615586, y: 0.9890859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackLegUpper
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 57
+        height: 54
+      alignment: 9
+      pivot: {x: 0.8930735, y: 0.8497105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BackLegLower
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 57
+        height: 84
+      alignment: 9
+      pivot: {x: 0.17992575, y: 0.9343863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pedal
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 478
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PedalArm
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 452
+        width: 3
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
